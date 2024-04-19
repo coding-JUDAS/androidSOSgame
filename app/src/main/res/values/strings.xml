@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTicTacToe</string>
+    <string name="main_title">Tic Tac Toe</string>
+    <string name="play_button">Play</string>
+
+    <string name="setup_title">Enter player IDs</string>
+    <string name="lbl_player1">Player 1</string>
+    <string name="lbl_player2">Player 2</string>
+    <string name="btn_start">Start</string>
+    <string name="name_hint">Enter Your Name</string>
+
+    <string name="btn_home">Home</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="lbl_turn"></string>
+</resources>
